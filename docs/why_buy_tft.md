@@ -68,7 +68,7 @@ This method is only recommended for technically skilled users. Core Client for T
 ## Step 2. Get ThreeFold Tokens
 
 Take a look at purchase options and guidance 
-[How to buy ThreeFold tokens](/how_to_buy/README.md)
+[How to buy ThreeFold tokens](/token/how_to_buy/README.md)
 
 
 
