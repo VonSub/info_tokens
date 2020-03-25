@@ -44,7 +44,7 @@ For additional information, please refer to our official channels:
 
 - ThreeFold Telegram Farmers Chat: [t.me/joinchat/BwOvO0NpZjNMHFx8wD_5nw](https://t.me/joinchat/BwOvO0NpZjNMHFx8wD_5nw)
 
-- Facebook: [facebook.com/ThreeFoldCommunity](https://www.facebook.com/ThreeFoldCommunity)
+- Facebook: [facebook.com/ThreeFoldNetwork](https://www.facebook.com/ThreeFoldNetwork)
 
 - LinkedIn: [linkedin.com/company/threefold-foundation/](https://www.linkedin.com/company/threefold-foundation/)
 
